@@ -18,6 +18,7 @@ public class EjemploGitHub {
         // TODO code application logic here
         System.out.println("Hola mundo, prueba en casa");
 	System.out.println("Modificado");
+	System.out.println("Borrado");
     }
     
 }
